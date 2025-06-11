@@ -1,0 +1,29 @@
+Simple Ludo Game in Python (Console-Based)
+This is a basic console-based Ludo game developed using Python. It simulates the core logic of the traditional Ludo board game for two or more players. The game is text-based and runs in the terminal.
+
+About the Project
+I created this project to practice and apply fundamental Python programming concepts such as conditionals, loops, functions, and basic game logic. It’s a simple implementation designed to be easy to understand and modify.
+
+Features
+Console-based gameplay
+
+Dice roll simulation
+
+Turn-based logic
+
+Basic movement rules (no GUI)
+
+How to Run
+Make sure Python is installed on your system.
+
+Clone or download the project files.
+
+Open a terminal or command prompt
+Note
+This project is built for learning purposes and is a simplified version of the actual Ludo game. It doesn’t include full rules like capturing, safe spots, or full path movement.
+
+Credits
+Special thanks to Angel Angelov for the original concept inspiration.
+
+About Me
+I’m Muhammad Haris, and I enjoy building small console-based games like this to strengthen my programming foundations and explore how classic board games can be implemented in code.
